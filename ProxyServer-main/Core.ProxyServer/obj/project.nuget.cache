@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oajYVAQhvGlvDya+90vcqi6jmcq8AaFcVt+RwO4wJ1hO41CnUipixz/DZPR9JoIeiRZlmiNSuA4t4DSuH23/CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\84582\\Desktop\\ProxyServer-main\\Core.ProxyServer\\Core.ProxyServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\84582\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

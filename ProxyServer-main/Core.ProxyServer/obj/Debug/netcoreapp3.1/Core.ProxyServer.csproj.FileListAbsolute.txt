@@ -1,0 +1,10 @@
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\bin\Debug\netcoreapp3.1\Core.ProxyServer.deps.json
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\bin\Debug\netcoreapp3.1\Core.ProxyServer.dll
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\bin\Debug\netcoreapp3.1\Core.ProxyServer.pdb
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\obj\Debug\netcoreapp3.1\Core.ProxyServer.csproj.AssemblyReference.cache
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\obj\Debug\netcoreapp3.1\Core.ProxyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\obj\Debug\netcoreapp3.1\Core.ProxyServer.AssemblyInfoInputs.cache
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\obj\Debug\netcoreapp3.1\Core.ProxyServer.AssemblyInfo.cs
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\obj\Debug\netcoreapp3.1\Core.ProxyServer.csproj.CoreCompileInputs.cache
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\obj\Debug\netcoreapp3.1\Core.ProxyServer.dll
+C:\Users\84582\Desktop\ProxyServer-main\Core.ProxyServer\obj\Debug\netcoreapp3.1\Core.ProxyServer.pdb
